@@ -4,7 +4,7 @@
 
 ---
 
-### : Обо мне:
+### Обо мне:
 
 Я начинающий Дата Саентист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
