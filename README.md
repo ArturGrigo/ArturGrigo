@@ -13,8 +13,11 @@
 </p>
 
 
+:mailbox: 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-GrigorianArtur-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ArtGrigt) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+Как связаться со мной:
+
+[![Telegram Badge](https://img.shields.io/badge/-GrigorianArtur-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ArtGrigt) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:super.artzy@yandex.ru)
 
 ---
 
